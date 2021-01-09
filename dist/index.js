@@ -2,8 +2,8 @@
  * name: @jswork/next-is-valid-lrc
  * description: Detete string is a valid lrc.
  * homepage: https://github.com/afeiship/next-is-valid-lrc
- * version: 1.0.0
- * date: 2020-11-23 13:27:38
+ * version: 1.0.1
+ * date: 2021-01-09 16:11:02
  * license: MIT
  */
 
